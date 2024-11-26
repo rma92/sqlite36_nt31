@@ -1,0 +1,6 @@
+*.swp
+*.exe
+*.dll
+*.exp
+*.obj
+sqlite3.lib
